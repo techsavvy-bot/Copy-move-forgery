@@ -1,0 +1,21 @@
+body{
+    background-color: black;
+    font-family: 'Bebas Neue';font-size: 22px;
+    
+}
+.container {
+  margin-top: 5rem;
+  border-radius: 1rem;
+  background-color: rgb(195 169 255);
+
+}
+.imageContainer {
+  align-items: center;
+  text-align: center;
+  padding: 2rem;
+  /* background-color: rgb(195 169 255); */
+}
+.image {
+  display: flex;
+  justify-content: center;
+}

@@ -1,0 +1,19 @@
+
+#news{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.articleCard{
+    margin: 1rem;
+    border: 2px solid black;
+    padding: 1rem;
+    background-color: rgb(195 169 255);
+}
+.content{
+    width: 220px;
+}
+h1{
+    margin: 1rem;
+    color: blue;
+}
